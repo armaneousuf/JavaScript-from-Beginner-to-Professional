@@ -18,3 +18,5 @@ const heightMeters = heightCm / 100;
 
 const BMI = weightKg / (heightMeters * heightMeters);
 console.log(BMI);
+
+
