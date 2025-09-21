@@ -7,4 +7,3 @@ For reference, 1 mile equals 1.60934 kilometers. */
 let miles = 130;
 let kilometers = miles * 1.60934;
 console.log(`The distance of ${miles} miles is equal to ${kilometers.toFixed(2)} kilometers`);
-
